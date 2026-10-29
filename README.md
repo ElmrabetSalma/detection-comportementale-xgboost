@@ -45,11 +45,11 @@ Dashboard Streamlit (alertes + graphiques)
 
 
 ## Lancer le projet
-1. Installer les dépendances
+1. Installer les dépendances:
 pip install -r requirements.txt
-2. Lancer le Dashboard de détection en temps réel
+2. Lancer le Dashboard de détection en temps réel:
 streamlit run detection/dashboard.py
-3. Simuler une attaque (dans un autre terminal)
+3. Simuler une attaque (dans un autre terminal):
 Pour tester la détection, lancez l'un des scripts d'attaque :
 python attacks/ransomware.py       
 python attacks/burst.py            # Création/suppression massive
@@ -81,10 +81,10 @@ Processus : nb événements, CPU max/moy, stabilité, threads, octets lus/écrit
 Réseau : nb événements, connexions simultanées, ports/IPs distincts, octets envoyés, persistance de port
 Système : nb événements, total d'événements
 
-⚠️ Avertissement
+Avertissement
 Ce projet est strictement éducatif. Les scripts d'attaque (attacks/) sont conçus pour cibler /tmp sur une machine isolée de test. Ne jamais exécuter sur un système de production ou sur une machine tierce.
 
-👤 Auteure
+Auteure
 Salma Elmarabet — Élève ingénieure en cybersécurité (ENSA Fès)
 ## Avertissement
 Ce projet est strictement éducatif. Les scripts d'attaque (attacks/) sont conçus pour cibler /tmp sur une machine isolée de test. Ne jamais exécuter sur un système de production ou sur une machine tierce.
