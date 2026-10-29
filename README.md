@@ -61,18 +61,18 @@ Le dashboard doit lever une alerte (rouge) avec le type d'attaque détecté.
 
 ## Pipeline de collecte & entraînement (Reproduction)
 Si vous souhaitez reproduire l'entraînement du modèle :
-# 1. Collecter du comportement bénin 
+1. Collecter du comportement bénin 
 python collectors/behaviour_collector_benin.py
-# 2. Collecter du comportement malveillant (lancer attaques + collector)
+2. Collecter du comportement malveillant (lancer attaques + collector)
 python collectors/behaviour_collector_suspect.py
-# 3. Extraire les features
+3. Extraire les features
 python features/extraction_features_benins.py
 python features/extraction_features_suspects.py
-# 4. Préparer le dataset
+4. Préparer le dataset
 python ml/preparer_dataset_ml.py
-# 5. Comparer les modèles
+5. Comparer les modèles
 python ml/entrainer_modeles.py
-# 6. Sauvegarder le meilleur modèle
+6. Sauvegarder le meilleur modèle
 python ml/sauvegarder_meilleur_modele.py
 
 ## Les 21 features extraites
@@ -81,6 +81,11 @@ Processus : nb événements, CPU max/moy, stabilité, threads, octets lus/écrit
 Réseau : nb événements, connexions simultanées, ports/IPs distincts, octets envoyés, persistance de port
 Système : nb événements, total d'événements
 
+⚠️ Avertissement
+Ce projet est strictement éducatif. Les scripts d'attaque (attacks/) sont conçus pour cibler /tmp sur une machine isolée de test. Ne jamais exécuter sur un système de production ou sur une machine tierce.
+
+👤 Auteure
+Salma Elmarabet — Élève ingénieure en cybersécurité (ENSA Fès)
 ## Avertissement
 Ce projet est strictement éducatif. Les scripts d'attaque (attacks/) sont conçus pour cibler /tmp sur une machine isolée de test. Ne jamais exécuter sur un système de production ou sur une machine tierce.
 
