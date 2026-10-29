@@ -7,26 +7,25 @@ Système de détection d'anomalies en temps réel basé sur le comportement du s
 <h2> Aperçu</h2>
 
 <p align="center">
-  <img width="1237" height="706" alt="image" src="https://github.com/user-attachments/assets/13c581d2-86e2-4f6d-ac68-b4b41bb9c93b" />
+  <img src="https://github.com/user-attachments/assets/33028848-daeb-4dce-ab4a-4c94dbd08889" width="90%" alt="Dashboard" />
   <br>
   <em>Interface du tableau de bord et métriques</em>
 </p>
 
 <p align="center">
- <img width="1047" height="331" alt="image" src="https://github.com/user-attachments/assets/4dee7f11-ad03-4305-a84b-c23d816f76fd" />
+  <img src="https://github.com/user-attachments/assets/7db7ba38-a564-4f36-b177-93914bd73f42" width="90%" alt="Alerte" />
   <br>
-  <em>Système normal (aucune anomalie détectée)</em>
+  <em>Détection d'une attaque (Burst) en temps réel et détails techniques</em>
 </p>
 
 <p align="center">
-  <img width="1237" height="482" alt="image" src="https://github.com/user-attachments/assets/9531d86e-3779-4b4e-b8c6-d0d420342e19" />
+  <img src="https://github.com/user-attachments/assets/REMPLACE_PAR_LE_LIEN_DE_L_IMAGE_GRAPHIQUES" width="90%" alt="Graphiques" />
   <br>
-  <em>Détection d'une attaque en temps réel (Burst Fichiers)</em>
+  <em>Évolution du score d'anomalie et répartition des événements</em>
 </p>
 
 <p align="center">
-  <img width="912" height="552" alt="image" src="https://github.com/user-attachments/assets/ae636b47-a2ce-485c-8717-65721b1e9c81" />
-
+  <img src="https://github.com/user-attachments/assets/REMPLACE_PAR_LE_LIEN_DE_L_IMAGE_HISTORIQUE" width="90%" alt="Historique" />
   <br>
   <em>Historique des alertes détectées</em>
 </p>
@@ -158,4 +157,5 @@ Ce projet est <b>strictement éducatif</b>. Les scripts d'attaque (<code>attacks
 <h2> Auteure</h2>
 
 <b>Salma Elmarabet</b> — Élève ingénieure en cybersécurité (ENSA Fès) <br>
-<a href="https://www.linkedin.com/in/salma-elmarabet-5a8921323/">LinkedIn</a>
+
+<b>Salma Elmarabet</b> : Élève ingénieure en cybersécurité (ENSA Fès) <br>
