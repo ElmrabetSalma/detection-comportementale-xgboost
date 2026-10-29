@@ -159,5 +159,3 @@ Ce projet est <b>strictement éducatif</b>. Les scripts d'attaque (<code>attacks
 <h2> Auteure</h2>
 
 <b>Salma Elmarabet</b> — Élève ingénieure en cybersécurité (ENSA Fès) <br>
-
-<b>Salma Elmarabet</b> : Élève ingénieure en cybersécurité (ENSA Fès) <br>
