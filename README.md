@@ -19,13 +19,15 @@ Système de détection d'anomalies en temps réel basé sur le comportement du s
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/REMPLACE_PAR_LE_LIEN_DE_L_IMAGE_GRAPHIQUES" width="90%" alt="Graphiques" />
+  <img width="1262" height="505" alt="image" src="https://github.com/user-attachments/assets/fb6aeef2-4569-4c18-af79-3b4cc740c14b" />
+
   <br>
   <em>Évolution du score d'anomalie et répartition des événements</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/REMPLACE_PAR_LE_LIEN_DE_L_IMAGE_HISTORIQUE" width="90%" alt="Historique" />
+  <img width="912" height="552" alt="image" src="https://github.com/user-attachments/assets/afb13e48-e7c8-4a8f-86dd-8d5f071476c4" />
+
   <br>
   <em>Historique des alertes détectées</em>
 </p>
