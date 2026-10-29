@@ -1,0 +1,11 @@
+psutil
+watchdog
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+streamlit
+plotly
+pycryptodome
+pynput
